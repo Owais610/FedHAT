@@ -5,7 +5,7 @@
 
 Official repository for the paper:  
 **FedHAT: Federated Heterogeneity-Aware Training for Cross-Country Iris Verification**  
-Owais Ali Khan¹,², Imtiaz Ahmed Taj²  
+Owais Ali Khan¹, Imtiaz Ahmed Taj²  
 ¹² Department of Electrical Engineering, Capital University of Science and Technology (CUST), Islamabad, Pakistan  
 
 This repository provides the **complete end-to-end pipeline** (Jupyter notebooks) for reproducing the results in the paper, including preprocessing, normalization, federated training with the novel FedHAT aggregation, and final evaluation.
