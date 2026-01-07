@@ -85,6 +85,10 @@ If you use this code, the pipeline, or the CUST-Iris dataset, please cite:
 License
 This project is licensed under the MIT License — see LICENSE for details.
 Contact
-Owais Ali Khan (corresponding author)
+Owais Ali Khan
 Email: awais.ali.khan610@gmail.com
+
+Imtiaz Ahmed Taj
+Email: iataj777@gmail.com
+
 For access to the CUST-Iris dataset or any questions, feel free to reach out.
