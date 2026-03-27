@@ -35,7 +35,7 @@ This repository provides the **complete end-to-end pipeline** (Jupyter notebooks
 
 ### Trained Model
 The best FedHAT global model checkpoint (`FHIR_POLY_EER_best.pt`) is available on Google Drive:  
-[Download Model Here](https://drive.google.com/file/d/1cXg4xVDUHR7HMc17WJtrHXzR5j6lQ30n/view?usp=drive_link)  
+[Download Model Here](https://drive.google.com/file/d/1cXg4xVDUHR7HMc17WJtrHXzR5j6lQ30n/view?usp=sharing)  
 
 
 ## Important Setup Notes (Avoid Errors!)
