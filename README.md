@@ -8,7 +8,36 @@ Official repository for the paper:
 Owais Ali Khan¹, Imtiaz Ahmed Taj²  
 ¹² Department of Electrical Engineering, Capital University of Science and Technology (CUST), Islamabad, Pakistan  
 
-This repository provides the **complete end-to-end pipeline** (Jupyter notebooks) for reproducing the results in the paper, including preprocessing, normalization, federated training with the novel FedHAT aggregation, and final evaluation.
+# FedHAT: Fairness-Aware Federated Learning for Iris Recognition
+
+A federated learning framework designed to handle non-IID, heterogeneous biometric datasets using fairness-aware aggregation.
+
+## Problem
+
+Traditional federated learning methods (e.g., FedAvg) assume IID data and uniform client contribution.
+
+In real-world biometric systems:
+- Datasets are heterogeneous (different sensors, countries)
+- Identity distribution is imbalanced
+- Some clients dominate training
+
+This leads to:
+- Poor generalization
+- Biased models
+
+  ## Contributions
+
+- Fairness-aware aggregation combining:
+  - Dataset size
+  - Identity richness
+  - Validation quality
+  - Rarity-aware weighting
+
+- Two-stage training:
+  1. Rule-based warmup
+  2. Learned aggregation via regression
+
+- Designed for cross-sensor iris datasets
 
 ## Repository Contents
 
