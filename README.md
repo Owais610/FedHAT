@@ -63,8 +63,8 @@ This leads to:
   **Important**: These JSON files contain **hardcoded absolute paths** pointing to the author's local directories.
 
 ### Trained Model
-The best FedHAT global model checkpoint (`FHIR_POLY_EER_best.pt`) is available on Google Drive:  
-[Download Model Here](https://drive.google.com/file/d/1cXg4xVDUHR7HMc17WJtrHXzR5j6lQ30n/view?usp=sharing)  
+The best FedHAT global model checkpoints for all seeds (42, 123, 2025) are available available on Google Drive:  
+[Download Model Here]([https://drive.google.com/file/d/1cXg4xVDUHR7HMc17WJtrHXzR5j6lQ30n/view?usp=sharing](https://drive.google.com/drive/folders/1_cC6EgJKle6MFKphfWbafrjZRC0YHI3J?usp=sharing))  
 
 
 ## Important Setup Notes (Avoid Errors!)
