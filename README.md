@@ -64,7 +64,7 @@ This leads to:
 
 ### Trained Model
 The best FedHAT global model checkpoints for all seeds (42, 123, 2025) are available available on Google Drive:  
-[Download Model Here]([https://drive.google.com/file/d/1cXg4xVDUHR7HMc17WJtrHXzR5j6lQ30n/view?usp=sharing](https://drive.google.com/drive/folders/1_cC6EgJKle6MFKphfWbafrjZRC0YHI3J?usp=sharing))  
+[Download Model Here](https://drive.google.com/drive/folders/1_cC6EgJKle6MFKphfWbafrjZRC0YHI3J?usp=drive_link)  
 
 
 ## Important Setup Notes (Avoid Errors!)
