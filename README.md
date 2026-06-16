@@ -3,10 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
-Official repository for the paper:
-**FedHAT: Federated Heterogeneity-Aware Training for Cross-Country Iris Verification**
-Owais Ali Khan¹, Imtiaz Ahmed Taj²
-¹² Department of Electrical Engineering, Capital University of Science and Technology (CUST), Islamabad, Pakistan
+Official repository for the paper by **Owais Ali Khan** and **Imtiaz Ahmed Taj**<br>
+*Department of Electrical Engineering, Capital University of Science and Technology (CUST), Islamabad, Pakistan*
 
 > **Status:** Under review at *Expert Systems with Applications*.
 
@@ -133,8 +131,6 @@ This work is currently under review. Until publication, please cite:
   note   = {Under review at Expert Systems with Applications}
 }
 ```
-
-(Once accepted, replace with the `@article` entry including journal, volume, and pages.)
 
 ## License
 
