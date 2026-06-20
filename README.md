@@ -101,7 +101,7 @@ This is required because biometric datasets cannot be shared publicly, and the s
 
 | Dataset        | Country     | Type        | Source / Access                          |
 |----------------|-------------|-------------|------------------------------------------|
-| CUST-Iris      | Pakistan    | NIR         | Available upon request (contact authors) |
+| CUST-Iris      | Pakistan    | NIR         | Available via DOI (Mendeley Data: https://doi.org/10.17632/3j6skjpsng.1) |
 | CASIA-Interval | China       | NIR         | Public (CASIA website)                   |
 | UPOL           | Czech Rep.  | Visible     | Public                                   |
 | IITD           | India       | NIR         | Public                                   |
