@@ -101,7 +101,7 @@ This is required because biometric datasets cannot be shared publicly, and the s
 
 | Dataset        | Country     | Type        | Source / Access                          |
 |----------------|-------------|-------------|------------------------------------------|
-| CUST-Iris      | Pakistan    | NIR         | Available via DOI (Mendeley Data: https://doi.org/10.17632/3j6skjpsng.1) |
+| CUST-Iris      | Pakistan    | NIR         | Available via DOI (Mendeley Data: https://doi.org/10.17632/3j6skjpsng.2) |
 | CASIA-Interval | China       | NIR         | Public (CASIA website)                   |
 | UPOL           | Czech Rep.  | Visible     | Public                                   |
 | IITD           | India       | NIR         | Public                                   |
@@ -121,14 +121,14 @@ Tested with Python 3.9–3.11 and PyTorch 2.0+.
 
 ## Citation
 
-This work is currently under review. Until publication, please cite:
+This work has been accepted for publication in Expert Systems with Applications.
 
 ```bibtex
-@misc{khan2026fedhat,
-  title  = {FedHAT: Federated Heterogeneity-Aware Training for Cross-Country Iris Verification},
-  author = {Khan, Owais Ali and Taj, Imtiaz Ahmed},
-  year   = {2026},
-  note   = {Under review at Expert Systems with Applications}
+@article{khan2026fedhat,
+  title   = {FedHAT: Federated Heterogeneity-Aware Training for Cross-Country Iris Verification},
+  author  = {Khan, Owais Ali and Taj, Imtiaz Ahmed},
+  year    = {2026},
+  journal = {Expert Systems with Applications},
 }
 ```
 
