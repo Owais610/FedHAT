@@ -6,7 +6,7 @@
 Official repository for the paper by **Owais Ali Khan** and **Imtiaz Ahmed Taj**<br>
 *Department of Electrical Engineering, Capital University of Science and Technology (CUST), Islamabad, Pakistan*
 
-> **Status:** Under review at *Expert Systems with Applications*.
+> **Status:** Accepted for publication in Expert Systems with Applications. The DOI will be added once assigned.
 
 ## Overview
 
