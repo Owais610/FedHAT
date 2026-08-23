@@ -6,7 +6,7 @@
 Official repository for the paper by **Owais Ali Khan** and **Imtiaz Ahmed Taj**<br>
 *Department of Electrical Engineering, Capital University of Science and Technology (CUST), Islamabad, Pakistan*
 
-> **Status:** Accepted for publication in Expert Systems with Applications. The DOI will be added once assigned.
+Status: Published online in Expert Systems with Applications. [[DOI](https://doi.org/10.1016/j.eswa.2026.134074)]
 
 ## Overview
 
@@ -124,11 +124,13 @@ Tested with Python 3.9–3.11 and PyTorch 2.0+.
 This work has been accepted for publication in Expert Systems with Applications.
 
 ```bibtex
-@article{khan2026fedhat,
-  title   = {FedHAT: Federated Heterogeneity-Aware Training for Cross-Country Iris Verification},
-  author  = {Khan, Owais Ali and Taj, Imtiaz Ahmed},
-  year    = {2026},
+@article{KHAN2026134074,
+  title   = {FedHAT: Federated Heterogeneity Aware Training Framework for Cross Country Iris Verification},
   journal = {Expert Systems with Applications},
+  pages   = {134074},
+  year    = {2026},
+  doi     = {10.1016/j.eswa.2026.134074},
+  author  = {Owais Ali Khan and Imtiaz Ahmed Taj}
 }
 ```
 
