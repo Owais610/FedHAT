@@ -6,7 +6,7 @@
 Official repository for the paper by **Owais Ali Khan** and **Imtiaz Ahmed Taj**<br>
 *Department of Electrical Engineering, Capital University of Science and Technology (CUST), Islamabad, Pakistan*
 
-Status: Published online in Expert Systems with Applications. [[DOI](https://doi.org/10.1016/j.eswa.2026.134074)]
+**Status:** Published online in *Expert Systems with Applications*. [View publication / DOI](https://doi.org/10.1016/j.eswa.2026.134074)
 
 ## Overview
 
